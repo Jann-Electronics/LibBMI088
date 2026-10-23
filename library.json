@@ -1,0 +1,14 @@
+{
+  "name": "LibBMI088",
+  "version": "1.0.0",
+  "description": "Arduino library for the Bosch BMI088 6-axis IMU (accelerometer and gyroscope) over I2C or SPI.",
+  "license": "MIT",
+  "keywords": ["bmi088", "imu", "accelerometer", "gyroscope", "bosch", "i2c", "spi"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JojeNN97/LibBMI088.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*",
+  "headers": "bmi088.h"
+}
