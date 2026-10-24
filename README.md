@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".img/banner.svg" alt="LibBMI088 — Arduino library for the Bosch BMI088 6-axis IMU" width="100%">
+</p>
+
 # LibBMI088
 
 Arduino library for the Bosch **BMI088** 6-axis IMU: a 16-bit accelerometer (±3/6/12/24 g) and a
